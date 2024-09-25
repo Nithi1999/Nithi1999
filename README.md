@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithi1999&label=Profile%20views&color=0e75b6&style=flat" alt="nithi1999" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack web development**
+- 🌱 Current job title **Software Engineer**
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, Django, FastAPI, MySQL, MongoDB, Machine Learning, Deeplearning, Natural language processing, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **nithinaravath1@gmail.com**
 
