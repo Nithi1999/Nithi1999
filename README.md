@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithi1999&label=Profile%20views&color=0e75b6&style=flat" alt="nithi1999" /> </p>
 
-- 🌱 Current job title **Software Engineer**
 - 🚀 Portfolio - **https://www.nithinaravath.com/**
+- 🌱 Current job title **Software Engineer**
 
 - 💬 Ask me about **Python, Django, FastAPI, MySQL, MongoDB, Machine Learning, Deep Learning, Natural language processing, spaCy, BERT, LLM**
 
